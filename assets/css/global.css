@@ -13,3 +13,7 @@ body{
 .navigation{
     background-color: purple;
 }
+
+.container{
+    padding: 0 25px;
+}

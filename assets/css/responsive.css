@@ -1,0 +1,16 @@
+@media screen and (min-width:600px) {
+    .menu ul {
+        flex-direction: row;
+        align-items: center;
+        width: 100%;
+    }
+    .aboutMe{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .aboutMe p{
+        width: 80%;
+        text-align: justify;
+    }
+}
