@@ -1,10 +1,14 @@
-@media screen and (min-width:600px) {
+@media screen and (min-width:650px) {
     .menu ul {
         flex-direction: row;
         align-items: center;
         width: 100%;
     }
+    .menu ul li.option a{
+        margin:0px;
+    }
     .aboutMe{
+        height: 68vh;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -16,4 +20,5 @@
         padding: 10px 30px;
         border-radius: 20px 20px 20px 20px;
     }
+    
 }
